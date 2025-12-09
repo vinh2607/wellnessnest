@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/index03.html" }
+    { "source": "/", "destination": "/shilajit_ui_fixed.html" }
   ]
 }
